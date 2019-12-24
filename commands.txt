@@ -1,0 +1,7 @@
+n --> move north
+w --> move west
+s --> move south
+e --> move east
+u key --> open door (temporary)
+t sword --> pick up the sword
+t shield --> take up the shield
